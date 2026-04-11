@@ -19,8 +19,10 @@ Thumbs.db
 # Model files (optional but recommended)
 models/*.pkl
 
-# Logs
+# Log
 *.log
 
 # VS Code
 .vscode/
+
+.venv/
